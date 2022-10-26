@@ -13,9 +13,9 @@ Recriar o jogo FREEWAY para treinar minha lógica de programação, conhecimento
 
 ## Imagens
 
-![/layout desktop.jpg"]()
+![/codigo do jogo.jpg"](https://github.com/JefersonDomingos/Recriacao-do-Jogo-FREEWAY/blob/eb019f76cd1ad03a47751fae3c04792299b36409/assets/IMG/imagem%20codigo.png)
 
-![/layout mobile.jpg"]()
+![/tela do jogo.jpg"](https://github.com/JefersonDomingos/Recriacao-do-Jogo-FREEWAY/blob/eb019f76cd1ad03a47751fae3c04792299b36409/assets/IMG/imagem%20do%20jogo.png)
 
 
 ## Para rodar o projeto
